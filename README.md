@@ -1,3 +1,7 @@
+Based on
+
+https://www.freecodecamp.org/news/loom-clone-next-javascript-mux/
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
